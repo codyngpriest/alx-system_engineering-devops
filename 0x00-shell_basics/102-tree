@@ -1,2 +1,8 @@
 #!/bin/basha
-mkdir -p welcome/{to/{school},}
+if mkdir -p welcome/
+then
+  if mkdir -p welcome/to/
+  then
+    mkdir -p welcome/to/school/
+  fi
+fi
