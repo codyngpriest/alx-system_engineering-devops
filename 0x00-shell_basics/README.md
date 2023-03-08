@@ -1,1 +1,1 @@
-Print current working directory script
+Scripting CLI commands
