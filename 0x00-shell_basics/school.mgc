@@ -1,3 +1,2 @@
 #!/bin/bash
-0	string	SCHOOL	School data file
-
+sudo /usr/bin/file -C -m school.mgc school
