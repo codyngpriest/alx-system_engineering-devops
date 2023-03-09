@@ -1,2 +1,3 @@
 #!/bin/bash
-for i in ./*; do printf '%s,' "${i##*/}"; done | sed 's/,$/\n/'
+#!/bin/bash
+ls -1Ap | tr '\n' ',' | sed 's/,$/\n/'
