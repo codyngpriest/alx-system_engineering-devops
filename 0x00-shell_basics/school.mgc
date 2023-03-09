@@ -1,2 +1,2 @@
 #!/bin/bash
-0 string SCHOOL	School data file
+0 string SCHOOL\n\"school\"\nSchool data\n\napplication/school; file -C -m school.mgc school.magic ; rm school.magic
