@@ -35,3 +35,5 @@ Let's display a file
 => This script will display lines containing the pattern "root" and 3 lines after them in the file /etc/passwd.
 17. I hate bins
 => This script will display all lines in the file /etc/passwd that do not contain the pattern "bin".
+18. Letters only please!
+=> this script will display all lines of the files /etc/ssh/ssh_config starting with a letter. Include capital letters as well.
