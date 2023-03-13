@@ -7,3 +7,5 @@ Let's display a file
 => This script displays the content of /ect/passwd file
 3. What about 2?
 => This script displays the content of two files /etc/passwd and etc/hosts
+4. Last lines of a file
+=> This script displays the last 10 lines of /etc/passwd
