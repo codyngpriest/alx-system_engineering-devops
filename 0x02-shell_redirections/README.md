@@ -27,3 +27,5 @@ Let's display a file
 => This script displays the 10 newest files in the current directory: one file per line, sorted from the neoldest.
 13. Being unique is better than being perfect
 => This script takes a list of words as input and prints only words that appear exactly once: Input format; One line, one word, Output format; One line, one world, Words should be sorted.
+14. It must be that file
+=> This script displays lines containing the pattern "root" from the file /etc/passwd.
