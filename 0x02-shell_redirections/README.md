@@ -43,3 +43,5 @@ Let's display a file
 => This script removes all letters c and C from input.
 21. esreveR
 => This script reverses it input.
+22. DJ Cut Killer 
+=. This script displays all users and their home directories, sorted by users. Based on the file /etc/passwd.
