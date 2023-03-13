@@ -39,3 +39,5 @@ Let's display a file
 => this script will display all lines of the files /etc/ssh/ssh_config starting with a letter. Include capital letters as well.
 19. A - Z
 => This script will replace all characters A and c from input to z and e respectively.
+20. Without C, you would live in hiago
+=> This script removes all letters c and C from input.
