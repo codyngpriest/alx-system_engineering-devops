@@ -23,3 +23,5 @@ Let's display a file
 => This script deletes all regular files(not directories) with a .js extension that are present in the current directory and all its subfolders.
 11. Don't just count your directories,make your directories count
 => This script counts the number of directories and sub-directories in the current directory. The current and parent directories should be taken into account. Hidden directories should be counted.
+12. What's new
+=> This script displays the 10 newest files in the current directory: one file per line, sorted from the neoldest.
