@@ -21,3 +21,5 @@ Let's display a file
 => This script writes to the file ls_cwd_content the result of the command ls -la. If the file exist, it should be overwritten otherwise it should be created.
 10. No more javascript
 => This script deletes all regular files(not directories) with a .js extension that are present in the current directory and all its subfolders.
+11. Don't just count your directories,make your directories count
+=> This script counts the number of directories and sub-directories in the current directory. The current and parent directories should be taken into account. Hidden directories should be counted.
