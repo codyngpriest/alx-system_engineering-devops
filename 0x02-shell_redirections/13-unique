@@ -1,0 +1,1 @@
+cat <input_file> | tr '[:upper:]' '[:lower:]' | tr ' ' '\n' | sort | uniq -c | awk '$1 == 1 {print $2}'

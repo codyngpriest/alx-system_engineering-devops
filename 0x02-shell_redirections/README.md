@@ -25,3 +25,5 @@ Let's display a file
 => This script counts the number of directories and sub-directories in the current directory. The current and parent directories should be taken into account. Hidden directories should be counted.
 12. What's new
 => This script displays the 10 newest files in the current directory: one file per line, sorted from the neoldest.
+13. Being unique is better than being perfect
+=> This script takes a list of words as input and prints only words that appear exactly once: Input format; One line, one word, Output format; One line, one world, Words should be sorted.
