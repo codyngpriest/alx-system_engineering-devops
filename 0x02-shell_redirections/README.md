@@ -5,3 +5,5 @@ A script that displays a confused smiley
 Let's display a file
 2. Let's display a file
 => This script displays the content of /ect/passwd file
+3. What about 2?
+=> This script displays the content of two files /etc/passwd and etc/hosts
