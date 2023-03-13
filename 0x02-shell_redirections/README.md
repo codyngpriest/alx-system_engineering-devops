@@ -31,3 +31,5 @@ Let's display a file
 => This script displays lines containing the pattern "root" from the file /etc/passwd.
 15. Count that word
 => this script will display the number of lines that contain the pattern "bin" in the file /etc/passwd.
+16. What's next
+=> This script will display lines containing the pattern "root" and 3 lines after them in the file /etc/passwd.
