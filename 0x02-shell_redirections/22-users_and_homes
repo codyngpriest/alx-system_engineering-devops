@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d: -f1,6 /etc/passwd | grep -E '^[^:]+:[^:]+/[[:alnum:]]' | sort
+getent passwd | cut -d: -f1,6 | grep -v "/nologin$" | sort -t: -k1
