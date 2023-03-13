@@ -41,3 +41,5 @@ Let's display a file
 => This script will replace all characters A and c from input to z and e respectively.
 20. Without C, you would live in hiago
 => This script removes all letters c and C from input.
+21. esreveR
+=> This script reverses it input.
