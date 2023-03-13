@@ -48,3 +48,5 @@ Let's display a file
 23. Empty casks make the most noise
 => This script finds all empty files and directories in the current directory and all sub-directories. Only names of files and directories should be displayed(not the entire path). Hidden files should be listed. The lising should end with a new line. No basename, grep, egrep, fgrep or rgrep.
 
+24. A gif is worth ten thousand words
+=> This script lists all the files with a .gif extension in the current directory and all its sub-directories. 
