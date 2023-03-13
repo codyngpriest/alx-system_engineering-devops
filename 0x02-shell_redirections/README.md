@@ -29,3 +29,5 @@ Let's display a file
 => This script takes a list of words as input and prints only words that appear exactly once: Input format; One line, one word, Output format; One line, one world, Words should be sorted.
 14. It must be that file
 => This script displays lines containing the pattern "root" from the file /etc/passwd.
+15. Count that word
+=> this script will display the number of lines that contain the pattern "bin" in the file /etc/passwd.
