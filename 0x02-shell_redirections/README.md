@@ -19,3 +19,5 @@ Let's display a file
 => This script duplicates the last line of the file iacta
 8. Save current state of directory
 => This script writes to the file ls_cwd_content the result of the command ls -la. If the file exist, it should be overwritten otherwise it should be created.
+10. No more javascript
+=> This script deletes all regular files(not directories) with a .js extension that are present in the current directory and all its subfolders.
