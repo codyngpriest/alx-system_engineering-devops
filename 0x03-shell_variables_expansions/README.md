@@ -15,3 +15,5 @@ Init files, variables and expansions
 => This script creates a new local variable with name=BEST and value=School.
 7. Global variable
 => This script creates a global variable with Name=BEST and Value=School.
+8. Every addition to true knowledge is an addition of per
+=> This script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
