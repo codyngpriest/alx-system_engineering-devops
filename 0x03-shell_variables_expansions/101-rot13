@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$ENCODED_MESSAGE" | tr 'N-ZA-Mn-za-m' 'A-Za-z'
+tr 'A-Za-z' 'N-ZA-Mn-za-m' < quote
