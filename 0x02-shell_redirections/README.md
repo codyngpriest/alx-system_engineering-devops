@@ -52,3 +52,5 @@ Let's display a file
 => This script lists all the files with a .gif extension in the current directory and all its sub-directories. 
 25. Acrostic
 => This script decodes acrostic that use that use the first letter of each line.
+26. The biggest fan
+=> This script parses web servers logs in TSV formats as input and displays the 11 hosts or IP addresses which did the most requests. Order by number of request, most active host or IP at top.
