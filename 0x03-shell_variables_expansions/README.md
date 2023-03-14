@@ -27,3 +27,5 @@ Init files, variables and expansions
 => This script prints all possible combinations of two lettes, except oo. Letters are lower cases from a to z. One combination per line. the output should be alpha ordered, starting with aa. DO not print oo. Your script should contain maximum 64 characters.
 13. Floats
 => this script prints a number with two decimal places, followed by a new line.
+14. DEcimal to Hexadecimal
+=> this script converts a number from base 10 to base 16. The number in base 10 is stored in the enviroment variable DECIMAL. The script should display the number in base 16, followed by a new line.
