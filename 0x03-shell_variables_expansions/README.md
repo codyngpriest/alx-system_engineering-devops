@@ -17,3 +17,5 @@ Init files, variables and expansions
 => This script creates a global variable with Name=BEST and Value=School.
 8. Every addition to true knowledge is an addition of per
 => This script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+9. Divide and rule
+=> This script prints the result of POWER divided by DIVIDE, followed by a new line. POWER and DIVIDE are environment variables.
