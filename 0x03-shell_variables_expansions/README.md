@@ -9,3 +9,5 @@ Init files, variables and expansions
 3. If the path be beautiful, let us not ask where it leads.
 4. Global variables
 => This script lists environment variables.
+5. Local variables
+=> This script lists all local variables and environment variables, and functions.
