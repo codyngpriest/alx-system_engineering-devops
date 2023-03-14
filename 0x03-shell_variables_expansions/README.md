@@ -13,3 +13,5 @@ Init files, variables and expansions
 => This script lists all local variables and environment variables, and functions.
 6. Local variable
 => This script creates a new local variable with name=BEST and value=School.
+7. Global variable
+=> This script creates a global variable with Name=BEST and Value=School.
