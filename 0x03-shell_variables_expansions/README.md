@@ -25,3 +25,5 @@ Init files, variables and expansions
 => This script converts a number from base 2 to base 10. The number in base 2 is stored in the environment variable BINARY. The script should display the number in base 10, folloed by a new line.
 12. Combination
 => This script prints all possible combinations of two lettes, except oo. Letters are lower cases from a to z. One combination per line. the output should be alpha ordered, starting with aa. DO not print oo. Your script should contain maximum 64 characters.
+13. Floats
+=> this script prints a number with two decimal places, followed by a new line.
