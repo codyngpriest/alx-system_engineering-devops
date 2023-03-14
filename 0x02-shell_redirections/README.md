@@ -50,3 +50,5 @@ Let's display a file
 
 24. A gif is worth ten thousand words
 => This script lists all the files with a .gif extension in the current directory and all its sub-directories. 
+25. Acrostic
+=> This script decodes acrostic that use that use the first letter of each line.
