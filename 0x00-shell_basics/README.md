@@ -14,3 +14,5 @@
 # This script creates a directory named my_first_directory in the /tmp/ directory
 7. Betty in my first directory
 # This script moves betty from /tmp/ to /tmp/my_first_directory.
+8. Bye bye Betty
+# This script deletes betty
