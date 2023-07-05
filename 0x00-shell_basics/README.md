@@ -8,3 +8,5 @@
 # This script displays the content if the current directory in long format
 4. Hidden files
 # This script displays the directory contents, including hidden files(starting with .). Use the long format.
+5. I love numbers
+# This scripts displays current directory contents in long format, with user and group IDs displayed numerically and hidden files starting with a .
