@@ -28,4 +28,10 @@
 # This script creates a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
 14. Copy HTML files
 # This script copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory. All HTML files have the extension .html
+15. Let's move
+# This script moves all files beginning with an uppercase letter to the directory /tmp/u
+
+
+
+
 
