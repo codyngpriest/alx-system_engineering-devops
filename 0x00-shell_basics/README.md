@@ -18,7 +18,8 @@
 # This script deletes betty
 9. Bye bye My first directory
 # This script deletes the directory my_first_directory that is in the /tmp directory.
-
+10. Back to the future
+# This script changes the working directory to the previous one.
 
 
 
