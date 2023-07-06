@@ -5,3 +5,6 @@
 # This script prints the effective username of the current user
 2. Groups
 # This script prints all the groups the current user is part
+3. New owner
+# Write a script that changes the owner of the file hello to the user betty
+
