@@ -6,5 +6,6 @@
 2. Groups
 # This script prints all the groups the current user is part
 3. New owner
-# Write a script that changes the owner of the file hello to the user betty
-
+# This script changes the owner of the file hello to the user betty
+4. Empty!
+# This script creates an empty file called hello
