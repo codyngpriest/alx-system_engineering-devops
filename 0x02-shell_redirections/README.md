@@ -5,3 +5,5 @@
 # This script displays a confused smiley "(Ôo)'.
 2. Let's display a file
 # This script displays the content of the /etc/passwd file.
+3. What about 2?
+# This script displays the content of /etc/passwd and /etc/hosts.
