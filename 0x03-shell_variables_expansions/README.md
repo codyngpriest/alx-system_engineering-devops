@@ -15,3 +15,5 @@
 # This script creates a new local variable with name BEST value School
 7. Global variable
 # This script creates a global variable with name BEST and value School 
+8. Every addition to true knowledge is an addition to human power
+# This script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
