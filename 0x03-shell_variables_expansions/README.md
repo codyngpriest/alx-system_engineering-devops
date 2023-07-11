@@ -13,3 +13,5 @@
 # This script lists all local variables and environment variables, and functions
 6. Local variable
 # This script creates a new local variable with name BEST value School
+7. Global variable
+# This script creates a global variable with name BEST and value School 
