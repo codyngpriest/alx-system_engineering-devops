@@ -19,3 +19,14 @@
 # This script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 9. Divide and rule
 # This script prints the result of POWER divided by DIVIDE, followed by a new line.
+10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
+# This script displays the result of BREATH to the power LOVE
+
+
+
+
+
+
+
+
+
