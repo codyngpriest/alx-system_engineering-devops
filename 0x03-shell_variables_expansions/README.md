@@ -9,3 +9,5 @@
 # This script counts the number of directories in the PATH.
 4. Global variables
 # This script lists environment variables.
+5. Local variables
+# This script lists all local variables and environment variables, and functions
