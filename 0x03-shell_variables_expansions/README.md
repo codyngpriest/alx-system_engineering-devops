@@ -17,3 +17,5 @@
 # This script creates a global variable with name BEST and value School 
 8. Every addition to true knowledge is an addition to human power
 # This script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+9. Divide and rule
+# This script prints the result of POWER divided by DIVIDE, followed by a new line.
