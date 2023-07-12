@@ -23,7 +23,8 @@
 # This is a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 11. Don't just count your directories, make your directories count
 # This is a script that counts the number of directories and sub-directories in the current directory.
-
+12. What’s new
+# This is a script that displays the 10 newest files in the current directory.
 
 
 
