@@ -13,3 +13,6 @@ Using your previous exercise command, write a Bash script that displays lines co
 
 3. Show your Bash PID made easy
 This is a Bash script that displays the PID, along with the process name, of processes whose name contain the word bash.
+
+4. To infinity and beyond
+This is a Bash script that displays To infinity and beyond indefinitely.
