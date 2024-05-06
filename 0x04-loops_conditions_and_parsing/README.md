@@ -8,3 +8,7 @@ Create a RSA key pair.
 
 1. For Best School loop
 This is a Bash script that displays Best School 10 times.
+
+2. While Best School loop
+This is a Bash script that displays Best School 10 times.
+
