@@ -49,3 +49,6 @@ This is a Bash script that displays numbers from 1 to 100.
 
 11. Read and cut
 This is a Bash script that displays the content of the file /etc/passwd.
+
+12. Tell the story of passwd
+This is a Bash script that displays the content of the file /etc/passwd, using the while loop + IFS.
