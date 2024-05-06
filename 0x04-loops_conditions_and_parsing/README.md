@@ -15,3 +15,5 @@ This is a Bash script that displays Best School 10 times.
 3. Until Best School loop
 This is a Bash script that displays Best School 10 times
 
+4. If 9, say Hi!
+This is a Bash script that displays Best School 10 times, but for the 9th iteration, displays Best School and then Hi on a new line.
