@@ -46,3 +46,6 @@ This is a Bash script that gives you information about the school file.
 
 10. FizzBuzz
 This is a Bash script that displays numbers from 1 to 100.
+
+11. Read and cut
+This is a Bash script that displays the content of the file /etc/passwd.
