@@ -43,3 +43,6 @@ Where only the part of the name after the first dash is displayed (refer to the 
 
 9. To file, or not to file
 This is a Bash script that gives you information about the school file.
+
+10. FizzBuzz
+This is a Bash script that displays numbers from 1 to 100.
