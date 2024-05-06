@@ -42,3 +42,6 @@ Deletes the file /var/run/myscript.pid and terminates itself when receiving a SI
 
 10. Manage my process
 Write Bash (init) script 101-manage_my_process that manages manage_my_process. (both files need to be pushed to git)
+
+11. Zombie
+This is a C program that creates 5 zombie processes.
