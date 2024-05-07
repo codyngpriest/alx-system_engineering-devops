@@ -40,3 +40,10 @@ The regular expression must match a 10 digit phone number
 7. OMG WHY ARE YOU SHOUTING?
 Requirement:
 The regular expression must be only matching: capital letters
+
+8. Textme
+Requirements:
+Your script should output: [SENDER],[RECEIVER],[FLAGS]
+The sender phone number or name (including country code if present)
+The receiver phone number or name (including country code if present)
+The flags that were used
