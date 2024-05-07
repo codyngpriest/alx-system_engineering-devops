@@ -36,3 +36,7 @@ Using the project instructions, create a Ruby script that accepts one argument a
 6. Call me maybe
 Requirement:
 The regular expression must match a 10 digit phone number
+
+7. OMG WHY ARE YOU SHOUTING?
+Requirement:
+The regular expression must be only matching: capital letters
