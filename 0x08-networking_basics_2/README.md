@@ -12,3 +12,6 @@ facebook.com resolves to 8.8.8.8.
 
 1. Show attached IPs
 This is a Bash script that displays all active IPv4 IPs on the machine it’s executed on.
+
+2. Port listening on localhost
+This is a Bash script that listens on port 98 on localhost
