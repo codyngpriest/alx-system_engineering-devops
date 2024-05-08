@@ -64,3 +64,8 @@ Which statement is correct for the TCP worker:
 Have you received boxes x, y, z?
 May I increase the rate at which I am sending you boxes?
 
+4. TCP and UDP ports
+This is a Bash script that displays listening ports:
+
+That only shows listening sockets
+That shows the PID and name of the program to which each socket belongs
