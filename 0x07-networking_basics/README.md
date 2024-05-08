@@ -69,3 +69,6 @@ This is a Bash script that displays listening ports:
 
 That only shows listening sockets
 That shows the PID and name of the program to which each socket belongs
+
+5. Is the host on the network
+This is a Bash script that pings an IP address passed as an argument.
