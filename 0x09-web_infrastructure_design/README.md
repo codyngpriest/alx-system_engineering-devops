@@ -27,4 +27,5 @@ Downtime when maintenance needed (like deploying new code web server needs to be
 Cannot scale if too much incoming traffic
 Please, remember that everything must be written in English to further your technical ability in a variety of settings.
 
-
+1. Distributed web infrastructure
+On a whiteboard, design a three server web infrastructure that hosts the website www.foobar.com.
