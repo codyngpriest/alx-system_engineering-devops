@@ -32,3 +32,13 @@ On a whiteboard, design a three server web infrastructure that hosts the website
 
 2. Secured and monitored web infrastructure
 On a whiteboard, design a three server web infrastructure that hosts the website www.foobar.com, it must be secured, serve encrypted traffic, and be monitored.
+
+3. Scale up
+Requirements:
+
+You must add:
+1 server
+1 load-balancer (HAproxy) configured as cluster with the other one
+Split components (web server, application server, database) with their own server
+You must be able to explain some specifics about this infrastructure:
+For every additional element, why you are adding it
