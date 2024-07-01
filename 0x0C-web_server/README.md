@@ -13,3 +13,6 @@ Web servers are the piece of software generating and serving HTML pages, let’s
 
 3. Redirection
 Configure your Nginx server so that /redirect_me is redirecting to another page.
+
+4. Not found page 404
+Configure your Nginx server to have a custom 404 page that contains the string Ceci n'est pas une page.
