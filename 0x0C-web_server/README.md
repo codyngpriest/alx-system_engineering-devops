@@ -10,3 +10,6 @@ Web servers are the piece of software generating and serving HTML pages, let’s
 
 2. Setup a domain name
 .TECH Domains is one of the top domain providers. They are known for the stability and quality of their DNS hosting solution. We partnered with .TECH Domains so that you can learn about DNS.
+
+3. Redirection
+Configure your Nginx server so that /redirect_me is redirecting to another page.
